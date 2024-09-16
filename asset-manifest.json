@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/moving-sale/static/css/main.f6a08c1c.css",
+    "main.js": "/moving-sale/static/js/main.50567324.js",
+    "static/js/453.25bd48e7.chunk.js": "/moving-sale/static/js/453.25bd48e7.chunk.js",
+    "static/media/vaccum1.jpeg": "/moving-sale/static/media/vaccum1.74ac05892ce82666f693.jpeg",
+    "static/media/frame2.jpeg": "/moving-sale/static/media/frame2.075fe2afee2cb654443f.jpeg",
+    "static/media/mirror2.jpeg": "/moving-sale/static/media/mirror2.bdeddf89a4a4f1f82a64.jpeg",
+    "static/media/vaccum2.jpeg": "/moving-sale/static/media/vaccum2.e8d2bb8cf6cb92659d43.jpeg",
+    "static/media/oven2.jpeg": "/moving-sale/static/media/oven2.8bd76799ab79539b5fd1.jpeg",
+    "static/media/frame1.jpeg": "/moving-sale/static/media/frame1.8d33d28f31f9cef88919.jpeg",
+    "static/media/mirror1.jpeg": "/moving-sale/static/media/mirror1.c5dda77775e49c7db02c.jpeg",
+    "static/media/oven1.jpeg": "/moving-sale/static/media/oven1.85bb8b5b23cabe432925.jpeg",
+    "static/media/mattress1.jpeg": "/moving-sale/static/media/mattress1.4dea39efeadeb9362d93.jpeg",
+    "static/media/mattress2.jpeg": "/moving-sale/static/media/mattress2.0806d2d8e80945db3e50.jpeg",
+    "static/media/drawer1.jpeg": "/moving-sale/static/media/drawer1.93501e3af2df95f1f5cb.jpeg",
+    "static/media/drawer2.jpeg": "/moving-sale/static/media/drawer2.251a814153230102e7bb.jpeg",
+    "static/media/slick.svg": "/moving-sale/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/moving-sale/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/moving-sale/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/moving-sale/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/items.csv": "/moving-sale/static/media/items.60eacec32ee26cc495d9.csv",
+    "index.html": "/moving-sale/index.html",
+    "main.f6a08c1c.css.map": "/moving-sale/static/css/main.f6a08c1c.css.map",
+    "main.50567324.js.map": "/moving-sale/static/js/main.50567324.js.map",
+    "453.25bd48e7.chunk.js.map": "/moving-sale/static/js/453.25bd48e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6a08c1c.css",
+    "static/js/main.50567324.js"
+  ]
+}
