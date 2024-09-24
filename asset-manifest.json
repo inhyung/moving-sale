@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/moving-sale/static/css/main.6c2d27ba.css",
-    "main.js": "/moving-sale/static/js/main.3e9af8db.js",
+    "main.css": "/moving-sale/static/css/main.2c4bb606.css",
+    "main.js": "/moving-sale/static/js/main.fc0e3adc.js",
     "static/js/453.2c1d87a2.chunk.js": "/moving-sale/static/js/453.2c1d87a2.chunk.js",
     "static/media/vaccum1.jpeg": "/moving-sale/static/media/vaccum1.74ac05892ce82666f693.jpeg",
     "static/media/drawer3.jpeg": "/moving-sale/static/media/drawer3.075fe2afee2cb654443f.jpeg",
@@ -23,12 +23,12 @@
     "static/media/slick.woff": "/moving-sale/static/media/slick.295183786cd8a1389865.woff",
     "static/media/items.csv": "/moving-sale/static/media/items.cdd858f439b4d33a160c.csv",
     "index.html": "/moving-sale/index.html",
-    "main.6c2d27ba.css.map": "/moving-sale/static/css/main.6c2d27ba.css.map",
-    "main.3e9af8db.js.map": "/moving-sale/static/js/main.3e9af8db.js.map",
+    "main.2c4bb606.css.map": "/moving-sale/static/css/main.2c4bb606.css.map",
+    "main.fc0e3adc.js.map": "/moving-sale/static/js/main.fc0e3adc.js.map",
     "453.2c1d87a2.chunk.js.map": "/moving-sale/static/js/453.2c1d87a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c2d27ba.css",
-    "static/js/main.3e9af8db.js"
+    "static/css/main.2c4bb606.css",
+    "static/js/main.fc0e3adc.js"
   ]
 }
