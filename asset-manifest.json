@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/moving-sale/static/css/main.3ebf8ce1.css",
-    "main.js": "/moving-sale/static/js/main.f513ad3b.js",
+    "main.js": "/moving-sale/static/js/main.d9acb887.js",
     "static/js/453.f9a0caba.chunk.js": "/moving-sale/static/js/453.f9a0caba.chunk.js",
     "static/media/vaccum1.jpeg": "/moving-sale/static/media/vaccum1.74ac05892ce82666f693.jpeg",
     "static/media/frame2.jpeg": "/moving-sale/static/media/frame2.075fe2afee2cb654443f.jpeg",
@@ -56,11 +56,11 @@
     "static/media/slick.woff": "/moving-sale/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/moving-sale/index.html",
     "main.3ebf8ce1.css.map": "/moving-sale/static/css/main.3ebf8ce1.css.map",
-    "main.f513ad3b.js.map": "/moving-sale/static/js/main.f513ad3b.js.map",
+    "main.d9acb887.js.map": "/moving-sale/static/js/main.d9acb887.js.map",
     "453.f9a0caba.chunk.js.map": "/moving-sale/static/js/453.f9a0caba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ebf8ce1.css",
-    "static/js/main.f513ad3b.js"
+    "static/js/main.d9acb887.js"
   ]
 }
