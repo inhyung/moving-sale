@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/moving-sale/static/css/main.3ebf8ce1.css",
-    "main.js": "/moving-sale/static/js/main.c2e207c8.js",
+    "main.js": "/moving-sale/static/js/main.ea207ab9.js",
     "static/js/453.f9a0caba.chunk.js": "/moving-sale/static/js/453.f9a0caba.chunk.js",
     "static/media/vaccum1.jpeg": "/moving-sale/static/media/vaccum1.74ac05892ce82666f693.jpeg",
     "static/media/frame2.jpeg": "/moving-sale/static/media/frame2.075fe2afee2cb654443f.jpeg",
@@ -45,22 +45,25 @@
     "static/media/dryer21.jpeg": "/moving-sale/static/media/dryer21.66d0dd29f066d4f10442.jpeg",
     "static/media/outlet1.jpeg": "/moving-sale/static/media/outlet1.86c0f5fc2d24d93383f9.jpeg",
     "static/media/speaker1.jpeg": "/moving-sale/static/media/speaker1.86c0f5fc2d24d93383f9.jpeg",
+    "static/media/blender1.jpeg": "/moving-sale/static/media/blender1.d1d961a3cd69d23f0634.jpeg",
     "static/media/clock1.jpeg": "/moving-sale/static/media/clock1.d1d961a3cd69d23f0634.jpeg",
+    "static/media/mixer1.jpeg": "/moving-sale/static/media/mixer1.d1d961a3cd69d23f0634.jpeg",
+    "static/media/rack1.jpeg": "/moving-sale/static/media/rack1.d1d961a3cd69d23f0634.jpeg",
     "static/media/fan1.jpeg": "/moving-sale/static/media/fan1.b81859a46415f5040ae6.jpeg",
     "static/media/lamp21.jpeg": "/moving-sale/static/media/lamp21.eeca7da0c592ed6592a1.jpeg",
     "static/media/light1.jpeg": "/moving-sale/static/media/light1.5078b14171eae527395b.jpeg",
-    "static/media/items.csv": "/moving-sale/static/media/items.7f776d1e0294cd9dcc01.csv",
+    "static/media/items.csv": "/moving-sale/static/media/items.67b6c1d690a259a44301.csv",
     "static/media/slick.svg": "/moving-sale/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/moving-sale/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/moving-sale/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/moving-sale/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/moving-sale/index.html",
     "main.3ebf8ce1.css.map": "/moving-sale/static/css/main.3ebf8ce1.css.map",
-    "main.c2e207c8.js.map": "/moving-sale/static/js/main.c2e207c8.js.map",
+    "main.ea207ab9.js.map": "/moving-sale/static/js/main.ea207ab9.js.map",
     "453.f9a0caba.chunk.js.map": "/moving-sale/static/js/453.f9a0caba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ebf8ce1.css",
-    "static/js/main.c2e207c8.js"
+    "static/js/main.ea207ab9.js"
   ]
 }
