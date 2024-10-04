@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/moving-sale/static/css/main.136711be.css",
-    "main.js": "/moving-sale/static/js/main.1c601c9f.js",
+    "main.js": "/moving-sale/static/js/main.90039a3b.js",
     "static/js/453.f9a0caba.chunk.js": "/moving-sale/static/js/453.f9a0caba.chunk.js",
     "static/media/lamp13.jpeg": "/moving-sale/static/media/lamp13.892cd030b59634baab46.jpeg",
     "static/media/lamp11.jpeg": "/moving-sale/static/media/lamp11.2f9be81f29de24625458.jpeg",
@@ -106,18 +106,18 @@
     "static/media/house5.jpeg": "/moving-sale/static/media/house5.27ee0fe29c3d24b7d247.jpeg",
     "static/media/house6.jpeg": "/moving-sale/static/media/house6.c4552090eec63d02ad05.jpeg",
     "static/media/light1.jpeg": "/moving-sale/static/media/light1.8aa4bf6851e3ed88d520.jpeg",
-    "static/media/items.csv": "/moving-sale/static/media/items.848980401fca86caa078.csv",
+    "static/media/items.csv": "/moving-sale/static/media/items.fc48727db122ac74ca0e.csv",
     "static/media/slick.svg": "/moving-sale/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/moving-sale/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/moving-sale/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/moving-sale/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/moving-sale/index.html",
     "main.136711be.css.map": "/moving-sale/static/css/main.136711be.css.map",
-    "main.1c601c9f.js.map": "/moving-sale/static/js/main.1c601c9f.js.map",
+    "main.90039a3b.js.map": "/moving-sale/static/js/main.90039a3b.js.map",
     "453.f9a0caba.chunk.js.map": "/moving-sale/static/js/453.f9a0caba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.136711be.css",
-    "static/js/main.1c601c9f.js"
+    "static/js/main.90039a3b.js"
   ]
 }
